@@ -19,7 +19,11 @@
   },
   "homepage": "https://github.com/Hoon-Hub/goming-js-server#readme",
   "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-history-api-fallback": "^2.0.0",
     "express": "^4.18.2",
+    "forever": "^4.0.3",
+    "multer": "^1.4.5-lts.1",
     "mysql2": "^3.0.1"
   }
 }
